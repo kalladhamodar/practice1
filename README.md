@@ -1,37 +1,128 @@
-## Welcome to GitHub Pages
+0 notifications total
 
-You can use the [editor on GitHub](https://github.com/kalladhamodar/practice1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Skip to search
+Skip to main content
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Close jump menu
+LinkedIn
+Search
 
-### Markdown
+3
+3
+Home
+My Network
+Jobs
+Messaging
+44 new notifications.
+Notifications
+KALLA DHAMODAR
+Me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Work
+Try Premium Free for 1 Month
 
-```markdown
-Syntax highlighted code block
+KALLA, complete these steps to get the most out of LinkedIn:
+7
+Build your network
+7 connections! A bigger network means more opportunities can find you. 30’s a good start.
 
-# Header 1
-## Header 2
-### Header 3
+Keep connecting
+Profile started!
+Continue adding experiences and skills to showcase your accomplishments.
 
-- Bulleted
-- List
+Job alert created
+You’ll get a daily email and notification when new jobs are posted.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Edit photo
 
-[Link](url) and ![Image](src)
-```
+Add profile section
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+More…
+KALLA DHAMODAR
+KALLA has a account
+Having Knowledge on Python, Django and Web Technologies and mysql database.
+West Godavari, Andhra Pradesh, India  7 connections  Contact info
 
-### Jekyll Themes
+Godavari Institute of Engineering & Technology (GIET)
+#OpenToWork
+Python Developer, Django Developer, Javascript Developer, HTML Developer and Frontend Developer roles
+See all details
+ All LinkedIn members
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalladhamodar/practice1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Strengthen your profile
+KALLA, help hiring managers and old coworkers find you
+Add a past position so others can easily find and connect with you
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Not now
+ Add past position
+About
+Having Knowledge on Python, Django and Web Technologies and mysql database and front end 
+
+Your Dashboard
+Private to you
+ All Star
+3
+Who viewed your profile
+0
+Article views
+4
+Search appearances
+Salary insights
+See how your salary compares to others in the community
+
+Edit public profile & URL
+Add profile in another language
+
+People Also Viewed
+member_name
+Preksha Shingadia 3rd degree connection 3rd
+Trainee
+
+Connect with Preksha Shingadia
+member_name
+Raj Kannaujia 3rd degree connection 3rd
+University IT graduates who's fun loving sarcastic Bachelor with computer science and engineering background.
+
+Connect with Raj Kannaujia
+member_name
+Uday Kiran out of network 3rd+
+NodeJS developer, backend developer
+
+Connect with Uday Kiran
+member_name
+Adeel Parkar out of network 3rd+
+Legal Associate at Vishal G Jain & Associates
+
+Connect with Adeel Parkar
+member_name
+Aditya Singh 3rd degree connection 3rd
+Student at UIET Kurukshetra
+
+Connect with Aditya Singh
+member_name
+Kula Jagdala out of network 3rd+
+Student at National Institute of Technology, Rourkela
+
+Connect with Kula Jagdala
+member_name
+Nebedita Jana out of network 3rd+
+Project Engineer at Wipro Limited
+
+Connect with Nebedita Jana
+member_name
+appepalli keerthi out of network 3rd+
+Senior Project Engineer at Wipro Technologies
+
+Connect with appepalli keerthi
+member_name
+Nakul Lagad 3rd degree connection 3rd
+Systems Engineer at FIS
+
+Connect with Nakul Lagad
+member_name
+Harshil Khant out of network 3rd+
+Software Developer at Zeus Learning
+
+Connect with Harshil Khant
